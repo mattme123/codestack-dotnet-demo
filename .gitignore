@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/codestackdemo/v16/Server/sqlite3
+/codestackdemo/bin/Debug/netcoreapp3.1
+/codestackdemo/obj
